@@ -84,7 +84,7 @@ Hours from 00 hours to 24 hours
 
 ![image.png](image%202.png)
 
-**Observation:** Annual members are seen to be using the service the most in morning (7-8 AM) and evening (4-5 PM). A rise in the activity of casual users is observed from 3-5 PM.
+**Observation:** Annual members are seen to be using the service the most in morning (7-8 hrs) and evening (16-17 hrs). A rise in the activity of casual users is observed from 15-17 hrs.
 
 ### Average Ride Duration across the Months
 
