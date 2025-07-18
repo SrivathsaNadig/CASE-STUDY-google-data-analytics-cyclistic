@@ -120,12 +120,12 @@ Prompts can be made for casual users to become Cyclistic members after certain n
 
 “3 more minutes and you are close to a Cyclist Member!”
 
----
-
-_This project helped me develop stronger data cleaning skills and draw actionable insights from user behavior data. In future iterations, I aim to automate the analysis with Python or scale it using BigQuery to handle a full year of trip data._
-
 A seasonal membership can also be introduced to casual users to take advantage of peak seasons. Ads can also be targeted more during this period.
 
 In case casual users exceed time limits they could be fined or prompted to Cyclistic membership.
 
 Gamify the experience by showing them calories burnt and time spent which can be shared through social media as well
+
+---
+
+_This project helped me develop stronger data cleaning skills and draw actionable insights from user behavior data. In future iterations, I aim to automate the analysis with Python or scale it using BigQuery to handle a full year of trip data._
